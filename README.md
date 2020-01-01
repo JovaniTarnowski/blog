@@ -84,16 +84,16 @@ function fib(n){
 ##### Note: Tables sometimes render incorrectly when bieng viewed in a browser. If you are having this issue, view this file  [here](https://github.com/KazMalhotra/blog/blob/gh-pages/README.md#tables)
 | Column | Different column |
 | ------ | ----------- |
-| Table thing one  |*their called arguments* |
-| Row | **No, their called parameters** |
-| Cell| `Actually, their called cells.` |
+| Table thing one  |*they're called arguments* |
+| Row | **No, they're called parameters** |
+| Cell| `Actually, they're called cells.` |
 #### Source
 ```
 | Column | Different column |
 | ------ | ----------- |
-| Table thing one  |*their called arguments* |
-| Row | **No, their called parameters** |
-| Cell| `Actually, their called cells.` |
+| Table thing one  |*they're called arguments* |
+| Row | **No, they're called parameters** |
+| Cell| `Actually, they're called cells.` |
 ```
 ### Lists
 #### Renders as
